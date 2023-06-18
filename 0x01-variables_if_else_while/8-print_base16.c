@@ -10,7 +10,11 @@ int main(void)
 
 	for (i = 48; i < 58; i++)
 	{
+<<<<<<< HEAD
 		putchar(i);
+=======
+		putchar(i)
+>>>>>>> 453dadd13bc1505857079ce5d2450a2015c1141c
 	}
 	for (i = 97; i < 103; i++)
 	{
